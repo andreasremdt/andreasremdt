@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hey there 👋
 
-<!--
-**andreasremdt/andreasremdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Andreas, a Frontend Engineer located in Germany, currently working at [Camunda](https://camunda.com). I love building things in React (and JavaScript in general).
 
-Here are some ideas to get you started:
+Occasionally, you can find my articles on Medium or CSS-Tricks, where I try to write about interesting topics. After my workday finishes, I am primarily interested in learning new skills; thankfully, there's always something new in the front end world :-)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to get in touch or just see what I have been up to on the internet, you might want to check out the below links. Cheers 👋
+
+### Links
+
+* [Website](https://andreasremdt.com)
+* [LinkedIn](https://linkedin.com/in/andreasremdt)
+* [Medium](https://medium.com/@andreas.remdt)
+* [CSS-Tricks](https://css-tricks.com/author/andreasremdt/)
+* [500px](https://500px.com/andreasremdt)
